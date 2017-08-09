@@ -1,0 +1,55 @@
+
+#body-color{
+	background-color: pink;
+}
+
+
+#quoteblock{
+	background-color: white;
+	border-radius: 10px;
+	padding: 30px;
+	width: 800px;
+	color: pink;
+	position: fixed;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+}
+
+
+.quotetext{
+	text-align: center;
+	font-family: "Helvetica";
+	font-weight: bold;
+	font-size: 30px;
+	margin: 10px;
+}
+
+.authortext{
+	text-align: right;
+	font-family: "Helvetica";
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#quotebutton{
+	border-style: none;
+	background-color: pink;
+	font-family: "Helvetica";
+	font-size: 20px;
+	font-weight: bold;
+	color:white;
+	border-radius: 10px;
+}
+
+
+.fa{
+	color: white;
+	background-color: pink;
+	padding: 15px;
+    font-size: 10px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
